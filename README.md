@@ -57,7 +57,7 @@ Follow these steps to run the project locally 👇
 git clone https://github.com/subhash-519/Weather-Forecast.git
 
 # Navigate to the project folder
-cd weatherly
+cd Weather-Forecast
 
 # Install dependencies
 npm install
