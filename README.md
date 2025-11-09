@@ -54,7 +54,7 @@ Follow these steps to run the project locally 👇
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/weatherly.git
+git clone https://github.com/subhash-519/Weather-Forecast.git
 
 # Navigate to the project folder
 cd weatherly
